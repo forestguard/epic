@@ -1,4 +1,4 @@
-?? ForestGuardFinance.com  subgraph
+⚔️ ForestGuardFinance.com  subgraph
 
 Aims to deliver analytics & historical data for SushiSwap. Still a work in progress. Feel free to contribute!
 

@@ -1,6 +1,6 @@
 ⚔️ ForestGuardFinance.com  subgraph
 
-Aims to deliver analytics & historical data for SushiSwap. Still a work in progress. Feel free to contribute!
+Aims to deliver analytics & historical data for FOREST. Still a work in progress. Feel free to contribute!
 
 Try querying it on [The Graph's Explorer](https://thegraph.com/explorer/subgraph/theomnipotentbeing/forestguardfinance).
 

@@ -2,7 +2,7 @@
 
 Aims to deliver analytics & historical data for FOREST. 
 
-Try querying it on [The Graph's Explorer](https://thegraph.com/explorer/subgraph/theomnipotentbeing/forestguardfinance).
+Try querying it on [The Graph's Explorer](https://thegraph.com/explorer/subgraph/theomnipotentbeing/forestguardfinancev2).
 
 Learn more about subgraphs at [The Graph](https://thegraph.com/).
 
